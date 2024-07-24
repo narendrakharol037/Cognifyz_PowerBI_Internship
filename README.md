@@ -57,14 +57,15 @@ Analyze and visualize gender-based differences in investment preferences.
 ➡️ Key Insights :
 
 &#x2714; The significant trends, such as a higher preferences for Government_bonds among male investors, while female investors showed a strong inclination
-   to government bonds and equity market
+         to government bonds and equity market
 
 &#x2714; In this Investment Avenues No. of male investors are greater than to female investors.
 
 
+ 
  &#9733;   Dashboard
 
- 
+ ![task22](https://github.com/user-attachments/assets/9be6b931-c179-4d43-98d6-08bba0749f88)
 
 
 
