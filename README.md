@@ -110,23 +110,25 @@ Analyze investment durations and monitoring frequencies.
 ➡️ Steps Followed :
 
 :star: Duration Distribution: 
+ 
  I Visualize the distribution of investment durations by cloumn chart i found majority of investors did investment in 3-5 year duration(19 investors) and 1-3 year(18 investors) while short-term investment
  and long-term investment are much less
 
 :star: Frequency Analysis: 
+ 
  I Examine investment monitoring frequencies and their impact on investment preferences by column chart I found majority of investors monitor their investment on monthly basis.
 
 
 ➡️ Insights and Findings : 
 
-:star: Medium-term Investment : Most of the investor prefer 3-5 year duration for their investment.
+👉 Medium-term Investment : Most of the investor prefer 3-5 year duration for their investment.
 
-:star: Monthly Monitoring : the most popular monitoring is monthly basis, total 29 investor follow this tracking system.
+👉 Monthly Monitoring : the most popular monitoring is monthly basis, total 29 investor follow this tracking system.
 
 
  &#9733;   Dashboard
 
-
+![task4](https://github.com/user-attachments/assets/5c02f78b-c3d9-4937-ab81-9df9693e6893)
 
 
 
