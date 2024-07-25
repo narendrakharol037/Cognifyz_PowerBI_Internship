@@ -69,13 +69,30 @@ Analyze and visualize gender-based differences in investment preferences.
 
 
 
+ ## TASK - 3 : Objective Analysis
+
+➡️ Objective : 
+
+Analyze the relationship between savings objectives and investment choices.
+
+➡️ Steps I Followed :
+
+:star: Visual Comparison:
+
+1. I constructed a column chart between the investing avenues and objectives.
+
+2. Second chart. I also developed a column chart between Saving Objectives and Avenues.
 
 
+➡️ Key Insights :
 
+&#x2714; Objective Capital Appreciation prefers mutual funds, followed by stocks and fixed deposits.
 
+&#x2714; Mutual funds are the most popular investment option for objective growth, followed by fixed deposits and equity.
 
-
-
-
-
+&#x2714; Savings Objective Retirement plans are mostly invested in mutual funds, followed by fixed deposits and equity.
  
+&#x2714; Health Care. The majority of their money is invested in fixed deposits, followed by equity and mutual funds.
+
+
+ &#9733;   Dashboard
