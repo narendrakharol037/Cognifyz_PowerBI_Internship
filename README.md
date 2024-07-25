@@ -96,3 +96,5 @@ Analyze the relationship between savings objectives and investment choices.
 
 
  &#9733;   Dashboard
+
+ ![task3](https://github.com/user-attachments/assets/35dee427-b2d6-42c4-9099-822d58a7b72d)
