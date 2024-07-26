@@ -132,6 +132,40 @@ Analyze investment durations and monitoring frequencies.
 
 
 
+## TASK - 5 : Reasons For Investment
+
+
+➡️ Objective : 
+
+Analyze and visualize the reasons for investment.
+
+➡️ Steps I Followed : 
+
+:star: Trend Analysis :
+
+Most trending Reason is Better Returns and that is highly monitoring on monthly basis, followed by fund diversification that is also monitor on monthly basis and weekly basis.
+
+:star: Visualization :
+
+I created two cloumn chart in which first related to how Reason are monitered and second chart is prefer to how Reasons following that period of investment like 3-5 years and 1-3 years.
+
+
+
+➡️ Insights and Findings : 
+
+👉 Better Returns :
+
+It is most demanding reasons for investment that is mostly monitored by monthly basis and is best for the 3-5 years investment of period, followed by 1-3 years.
+
+👉 Fund Diversification :
+
+It is Second most demanding reason for investors that is also monitored by monthly basis and it is like to that investors who invested in 1-3 years period of investment.
+
+
+ &#9733;   Dashboard
+ 
+
+
 
 
 
