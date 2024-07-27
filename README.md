@@ -179,6 +179,16 @@ Analyze the sources from which individuals gather investment information.
 
 :star: Source Analysis : I created two charts in which first is cloumn chart that is based on Avenue by Source and second is bar chart that is based on Source by Avenue.
 
-:star: Insight Extraction : I 
+:star: Insight Extraction : I visualized that most of the investment avenues preferred Financial Consultance, followed by Newspapers and magazines.
+
+:star: Source by Avenue :
+
+1. Mutual Funds :
+
+The most common source of information for mutual  fund is financial consultants, with 18 mentions. this indicates that investors mostly preferred professional advice.
+
+2. Equity :
+
+
 
  
