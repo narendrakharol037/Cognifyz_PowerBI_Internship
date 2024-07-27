@@ -168,9 +168,17 @@ It is Second most demanding reason for investors that is also monitored by month
 
 
 
+## TASK - 6 : Source of Information
+
+➡️ Objective : 
+
+Analyze the sources from which individuals gather investment information.
 
 
+➡️ Steps I Followed : 
 
+:star: Source Analysis : I created two charts in which first is cloumn chart that is based on Avenue by Source and second is bar chart that is based on Source by Avenue.
 
+:star: Insight Extraction : I 
 
  
