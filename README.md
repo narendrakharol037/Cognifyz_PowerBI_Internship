@@ -223,10 +223,14 @@ Most of the investors never wants to access the investment information from inte
 
 Financial consultants are the most trusted source across all the investment avenues.
 
-👉 Traditional Media : Newspapers and magazines are mostly preferred source of information.
+👉 Traditional Media : 
+
+Newspapers and magazines are mostly preferred source of information.
 
 👉 Digital Media : 
 
 All over world shifted towards digitalization, but the internet is least relied upon source.
 
 &#9733;   Dashboard
+
+![task66](https://github.com/user-attachments/assets/c6fc61a6-9fe9-41e1-8c88-98346b124bbe)
