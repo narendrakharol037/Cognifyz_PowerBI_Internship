@@ -189,6 +189,44 @@ The most common source of information for mutual  fund is financial consultants,
 
 2. Equity :
 
+In this investment segment most of the investors preferred financial consultants, with 10 mentions.
 
+3. Fixed Deposits :
 
- 
+Information for fixed deposits is primarily gathered from financial consultants, with 9 mentions. 
+
+4. Public Provident Fund :
+
+In this investment avenues, investors are show very least interest, with only 3 mentions.
+
+ :star: Avenue by Source :
+
+ 1. Financial Consultants :
+
+Financial consultants are the most preferred source by the investors, with 16 mentions.
+
+2. Newspapers and Magazines :
+
+Traditional media is the second most common source, with 14 mentions 
+
+3. Television :
+
+it is least preferred by the modern investors comparison to financial consultants and Newspapers, with 6 mentions.
+
+4. Internet :
+
+Most of the investors never wants to access the investment information from internet , with only 4 mentions.
+
+➡️ Insights and Findings :
+
+👉 Professional Advice Dominates :
+
+Financial consultants are the most trusted source across all the investment avenues.
+
+👉 Traditional Media : Newspapers and magazines are mostly preferred source of information.
+
+👉 Digital Media : 
+
+All over world shifted towards digitalization, but the internet is least relied upon source.
+
+&#9733;   Dashboard
