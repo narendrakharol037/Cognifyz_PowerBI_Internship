@@ -234,3 +234,84 @@ All over world shifted towards digitalization, but the internet is least relied 
 &#9733;   Dashboard
 
 ![task66](https://github.com/user-attachments/assets/c6fc61a6-9fe9-41e1-8c88-98346b124bbe)
+
+
+
+## 𝐓𝐚𝐬𝐤 - 𝟕: Combine Insights into a Dashboard
+
+► As a part of the Cognifyz Technologies Internship , I have developed a "𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 " Dashboard using Power BI.
+
+➡️ 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞 :
+Create a comprehensive dashboard incorporating all insights.
+
+➡️ 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐅𝐢𝐫𝐬𝐭 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 :
+
+➤ 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐀𝐠𝐞 :
+
+The average age of investors is 27.80 years.
+
+➤ 𝐆𝐞𝐧𝐝𝐞𝐫 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 :
+
+62.5% of investors are male, and 37.5% are female.
+
+➤ 𝐈𝐧𝐝𝐢𝐯𝐢𝐝𝐮𝐚𝐥𝐬 𝐛𝐲 𝐒𝐚𝐯𝐢𝐧𝐠 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬 :
+
+Most investors (24) save for Retirement plan, followed by 13 for healthcare, and 3 investor for education.
+
+➤ 𝐍𝐨. 𝐨𝐟 𝐌𝐚𝐥𝐞 & 𝐅𝐞𝐦𝐚𝐥𝐞 𝐈𝐧𝐯𝐞𝐬𝐭𝐨𝐫𝐬 𝐢𝐧 𝐞𝐚𝐜𝐡 𝐢𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐂𝐚𝐭𝐚𝐠𝐨𝐫𝐲 :
+
+Male investors are evenly distributed across equity, mutual funds, and government bonds, while female investors have equal preferences for all three.
+
+➤ 𝐆𝐞𝐧𝐝𝐞𝐫- 𝐁𝐚𝐬𝐞𝐝 𝐏𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬 𝐢𝐧 𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐏𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬 :
+
+Male investors prefer equity markets the most, while female investors have a higher preference for mutual funds compared to government bonds and equity markets.
+
+#### ➤ Investment Avenue Preferance :
+
+Most of the investor preferred Gold (21.34%), followed by Debentures (20.54%) and Government bonds (16.61%).
+
+
+➡️ 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐒𝐞𝐜𝐨𝐧𝐝 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 :
+
+➤ 𝐀𝐯𝐞𝐧𝐮𝐞 𝐛𝐲 𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧 :
+
+Investments are primarily held for 1-3 years (18) and 3-5 years (19).
+
+➤ 𝐀𝐯𝐞𝐧𝐮𝐞 𝐛𝐲 𝐈𝐧𝐯𝐞𝐬𝐭 𝐌𝐨𝐧𝐢𝐭𝐨𝐫 :
+
+Most investors monitor their investments monthly (29).
+
+#### ➤ Investment Avenues by Objective :
+
+For capital appreciation, equity (13) and mutual funds (6) are preferred.
+
+#### ➤ Investment Avenues by Saving Objective :
+
+For Retirement plan 13 are mutual funds and 7 are Equity while for Health care 5 are fixed deposits.
+
+
+#### ➡️ Insights for the third Dashboard :
+
+#### ➤ Avenue by Source :
+
+Financial consultants (16) and newspapers/magazines (14) are the primary sources of investment information.
+
+#### ➤ Source by Avenue :
+
+Mutual funds are the most common investment avenue (18), followed by equity (10) and fixed deposits (9).
+
+#### ➤ Reason Mutual by Invest Monitor :
+
+For Better Returns 18 are monthly investor and 5 are weekly investor.
+
+#### ➤ Reason Mutual by Duration :
+
+For Better Returns 13 investor do investment for 3-5 years and 9 investor do investment for 1-3 years.
+
+
+
+
+
+
+
+
