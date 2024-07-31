@@ -242,6 +242,7 @@ All over world shifted towards digitalization, but the internet is least relied 
 ► As a part of the Cognifyz Technologies Internship , I have developed a "𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 " Dashboard using Power BI.
 
 ➡️ 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞 :
+
 Create a comprehensive dashboard incorporating all insights.
 
 ➡️ 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐅𝐢𝐫𝐬𝐭 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 :
@@ -309,9 +310,47 @@ For Better Returns 18 are monthly investor and 5 are weekly investor.
 For Better Returns 13 investor do investment for 3-5 years and 9 investor do investment for 1-3 years.
 
 
+![page1](https://github.com/user-attachments/assets/5bf04e74-f233-4be0-9c5d-e14c3b6d0dbd)
 
 
+![page2](https://github.com/user-attachments/assets/fcd68aeb-01f4-4de9-96b6-dbb781b11846)
 
 
+![page3](https://github.com/user-attachments/assets/26b3bda4-993d-4300-af71-336a162567f1)
+
+
+» During this program, I performed various tasks that helped me learn essential skills required for data analysis and data visualization using Power BI in a meaningful manner.
+
+✤ Some of the tasks I accomplished & learned include :
+
+✅ 𝐃𝐚𝐭𝐚 𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐒𝐮𝐦𝐦𝐚𝐫𝐲 : 
+
+Gained proficiency in importing datasets, performing exploratory data analysis, and summarizing key statistics.
+
+✅ 𝐆𝐞𝐧𝐝𝐞𝐫-𝐛𝐚𝐬𝐞𝐝 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 : 
+
+Analyzed and visualized gender-based differences in investment preferences, providing valuable insights.
+
+✅ 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 : 
+
+Explored correlations between savings objectives and investment choices to inform data-driven decisions.
+
+✅ 𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐜𝐲 : 
+
+Examined investment durations and monitoring frequencies, revealing significant patterns.
+
+✅ 𝐑𝐞𝐚𝐬𝐨𝐧𝐬 𝐟𝐨𝐫 𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 : 
+
+Identified common investment motivations and visualized trends.
+
+✅ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐨𝐟 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 : 
+
+Analyzed where individuals gather investment information and their reliance on various sources.
+
+✅ 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐃𝐞𝐬𝐢𝐠𝐧 : 
+
+Created an interactive and user-friendly Power BI dashboard, integrating all previous analyses and key insights.
+
+✤ During this program, I strengthened my Power BI skills to better understand clients and their data visualization needs :-
 
 
